@@ -8,6 +8,8 @@ Designed with a clean architecture and best practices, the platform ensures a sm
 
 ---
 
+npm install
+
 ## 📘 **Technologies Used**
 
 - **Express.js** for backend
