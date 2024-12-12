@@ -22,6 +22,9 @@ Designed with a clean architecture and best practices, the platform ensures a sm
 ### fill all the required things in .env file except refresh_token which is shown in next line.
 ### run the script : get-google-refresh-token.js to get refresh token and place it .env file 
 
+**Example URL:**    http://localhost:3002/api/auth/signup
+   http://localhost:3002/api/bookings/book
+
 ### 1. **User Signup**
 
 **URL:** `/api/auth/signup`  
